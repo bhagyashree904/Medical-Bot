@@ -1,0 +1,1 @@
+faiss.read_index("C:/Users/bhagy/Desktop/Medical-chatbot/vectorstore/db_faiss")
